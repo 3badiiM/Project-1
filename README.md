@@ -16,7 +16,7 @@ The program validates the user inputs and repleys to the user with
 
 3.  Add a book:
 
-   ![image](https://github.com/3badiiM/Project-1/assets/115943308/e9fc7664-0493-4701-ab54-68be840e4ab9)
+      ![image](https://github.com/3badiiM/Project-1/assets/115943308/e9fc7664-0493-4701-ab54-68be840e4ab9)
 
 4. Delete a book:
    ![image](https://github.com/3badiiM/Project-1/assets/115943308/2761c3b1-a320-49c4-90fe-b12ac0d86784)
